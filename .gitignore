@@ -1,0 +1,35 @@
+[Bb]uild*/
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+*.so
+*.a
+*.log
+
+## Ignore clion file
+.idea/
+
+# visual studio code
+.vscode
+.cquery_cached_index/
+
+# Qt Creator CMake Settings
+CMakeLists.txt.user* 
+
+# git merge Files
+*.orig
+
+# build dirs by new clion
+cmake-build-*/
+
+# temporary files by emacs
+*~
+
+# language server
+.cquery_cached_index/
+compile_commands\.json
+
+# qt creator
+CMakeLists.txt.user
+
+.DS_Store

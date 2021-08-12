@@ -1,0 +1,6 @@
+[submodule "deps/cpp.react"]
+	url = ../cpp.react.git
+	path = deps/cpp.react
+[submodule "deps/googletest"]
+	path = deps/googletest
+	url = https://github.com/google/googletest.git
